@@ -1,16 +1,12 @@
-# flutter_app_challenge_dio_01
+# First App in DIO's Challenge - 01
 
 A new Flutter project.
 
-## Getting Started
+## What is the project?
+A simple description about me and my studies.
+I used widgets like:
+Circle Avatart, Stack, Scaffold, Container and Text
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![untitled](https://github.com/beatrizgomess/flutter-challenge-dio-01/assets/78573126/84251974-a943-4ad3-a773-8565d7e778af)
+![Screenshot_1692644048](https://github.com/beatrizgomess/flutter-challenge-dio-01/assets/78573126/2fd9b1f7-fb4c-4eba-90e8-ac297d9d7bc8)
